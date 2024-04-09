@@ -12,6 +12,9 @@
   <translation type="gettext">io.github.alexkdeveloper.predictor</translation>
   <launchable type="desktop-id">io.github.alexkdeveloper.predictor.desktop</launchable>
   <developer_name>Alex Kryuchkov</developer_name>
+  <developer id="io.github.alexkdeveloper">
+    <name>Alex Kryuchkov</name>
+  </developer>
   <url type="homepage">https://github.com/alexkdeveloper/predictor</url>
   <url type="bugtracker">https://github.com/alexkdeveloper/predictor/issues</url>
   <url type="vcs-browser">https://github.com/alexkdeveloper/predictor</url>
